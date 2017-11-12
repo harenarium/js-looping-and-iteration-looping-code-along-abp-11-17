@@ -13,3 +13,7 @@ function tailsNeverFails(){
   }
   return `You got ${tails} tails in a row!`
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3af2c2d4fe6f4425c47dcbfcb92391ef77e3f3a4
